@@ -1,0 +1,3 @@
+class udev inherits params {
+
+}
