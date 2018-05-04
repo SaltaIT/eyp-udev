@@ -1,3 +1,3 @@
-class udev inherits params {
+class udev inherits udev::params {
 
 }

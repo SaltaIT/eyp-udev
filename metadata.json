@@ -1,12 +1,12 @@
 {
   "name": "eyp-udev",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "eyp",
   "summary": "renames interfeces using udev",
   "license": "Apache-2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
+  "source": "https://github.com/NTTCom-MS/eyp-udev",
+  "project_page": "https://github.com/NTTCom-MS/eyp-udev",
+  "issues_url": "https://github.com/NTTCom-MS/eyp-udev/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
   ],
@@ -33,7 +33,11 @@
     },
     {
       "operatingsystem": "Ubuntu",
-      "operatingsystemrelease": [ "14.04", "16.04" ]
+      "operatingsystemrelease": [ "14.04", "16.04", "18.04" ]
+    },
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [ "8", "9" ]
     },
     {
       "operatingsystem": "SLES",
