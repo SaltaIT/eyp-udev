@@ -41,7 +41,7 @@
     },
     {
       "operatingsystem": "SLES",
-      "operatingsystemrelease": [ "11.3" ]
+      "operatingsystemrelease": [ "11.3", "12.3" ]
     }
   ],
   "requirements": [
