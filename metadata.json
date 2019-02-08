@@ -1,6 +1,6 @@
 {
   "name": "eyp-udev",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "author": "eyp",
   "summary": "renames interfeces using udev",
   "license": "Apache-2.0",
