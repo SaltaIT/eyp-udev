@@ -1,6 +1,6 @@
 {
   "name": "eyp-udev",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "author": "eyp",
   "summary": "renames interfeces using udev",
   "license": "Apache-2.0",
@@ -13,23 +13,23 @@
   "operatingsystem_support": [
     {
       "operatingsystem": "RedHat",
-      "operatingsystemrelease": [ "5", "6", "7" ]
+      "operatingsystemrelease": [ "5", "6", "7", "8" ]
     },
     {
       "operatingsystem": "CentOS",
-      "operatingsystemrelease": [ "5", "6", "7" ]
+      "operatingsystemrelease": [ "5", "6", "7", "8" ]
     },
     {
       "operatingsystem": "Scientific",
-      "operatingsystemrelease": [ "5", "6", "7" ]
+      "operatingsystemrelease": [ "5", "6", "7", "8" ]
     },
     {
       "operatingsystem": "OEL",
-      "operatingsystemrelease": [ "5", "6", "7" ]
+      "operatingsystemrelease": [ "5", "6", "7", "8" ]
     },
     {
       "operatingsystem": "OracleLinux",
-      "operatingsystemrelease": [ "5", "6", "7" ]
+      "operatingsystemrelease": [ "5", "6", "7", "8" ]
     },
     {
       "operatingsystem": "Ubuntu",
@@ -37,7 +37,7 @@
     },
     {
       "operatingsystem": "Debian",
-      "operatingsystemrelease": [ "8", "9" ]
+      "operatingsystemrelease": [ "8", "9", "10" ]
     },
     {
       "operatingsystem": "SLES",
