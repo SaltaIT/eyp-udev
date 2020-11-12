@@ -4,9 +4,9 @@
   "author": "eyp",
   "summary": "renames interfeces using udev",
   "license": "Apache-2.0",
-  "source": "https://github.com/NTTCom-MS/eyp-udev",
-  "project_page": "https://github.com/NTTCom-MS/eyp-udev",
-  "issues_url": "https://github.com/NTTCom-MS/eyp-udev/issues",
+  "source": "https://github.com/SaltaIT/eyp-udev",
+  "project_page": "https://github.com/SaltaIT/eyp-udev",
+  "issues_url": "https://github.com/SaltaIT/eyp-udev/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"}
   ],
