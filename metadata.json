@@ -1,7 +1,7 @@
 {
   "name": "eyp-udev",
   "version": "0.1.6",
-  "author": "eyp",
+  "author": "Jordi Prats",
   "summary": "renames interfeces using udev",
   "license": "Apache-2.0",
   "source": "https://github.com/SaltaIT/eyp-udev",
